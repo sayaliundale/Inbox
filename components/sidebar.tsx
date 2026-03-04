@@ -20,7 +20,7 @@ export function Sidebar() {
           className="flex items-center gap-3 rounded-lg px-3 py-2 text-zinc-500 transition-all hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50"
         >
           <FileText className="h-5 w-5" />
-          Notes
+          Notess
         </Link>
         <Link
           href="/images"
